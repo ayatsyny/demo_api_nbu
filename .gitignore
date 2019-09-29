@@ -1,0 +1,9 @@
+# Pycharm .IDE
+.idea/
+
+# Compile python files
+*.py[cod]
+__pycache__/
+
+#  Sqlite DB
+db.sqlite3
